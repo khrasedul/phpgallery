@@ -1,5 +1,5 @@
 # phpgallery
-
+<br><br>
 #clone this zip file 
 #extract after change admin/inc/config.php file
 #write sql file for this project 
